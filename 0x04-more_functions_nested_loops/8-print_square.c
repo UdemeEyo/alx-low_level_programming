@@ -1,15 +1,11 @@
 #include "main.h"
 
 /**
- * print_square - prints a square, followed by a new line.
- * @size: the size of square to be printed
- * Return: 0
+ * print_square - prints a square, followed by a new line;
+ * @size: size of the square
  */
-
 void print_square(int size)
 {
-int size;
-
 if (size <= 0)
 {
 _putchar('\n');
