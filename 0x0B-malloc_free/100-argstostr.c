@@ -6,12 +6,13 @@
   * argstostr - convert the params passed to the program to string
   * @ac: arguement count
   * @av: arguement vector
-  * Return: ...
+  * Return: s on success
   */
 char *argstostr(int ac, char **av)
 {
 	int ch = 0, i = 0, j = 0, k = 0;
 	char *s;
+
 	if (ac == 0 || av == NULL)
 		return (NULL);
 
