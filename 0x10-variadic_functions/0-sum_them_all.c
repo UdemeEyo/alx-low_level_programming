@@ -6,7 +6,7 @@
   * @n: the number of params passed to the func
   * @...: A variable number of params to calculate their sum
   * Return: if n == 0, return 0.
-  * Otherwise - the sum of all params
+  * Otherwise the sum of all params
   */
 int sum_them_all(const unsigned int n, ...)
 {
