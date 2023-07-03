@@ -2,7 +2,7 @@
 #include "lists.h"
 
 /**
- * myFuncode - runs before main
+ * U_Funcode - runs before main
  */
 
 void U_Funcode(void)
