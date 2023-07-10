@@ -1,6 +1,4 @@
 #include "main.h"
-#include <stdlib.h>
-
 /**
  * on_error - print error message and exit the program
  * @err_code: error code
