@@ -1,7 +1,4 @@
-#include <stdarg.h>
-#include <stdio.h>
 #include "main.h"
-#include <stdlib.h>
 
 /**
  * on_error - print error message and exit the program
